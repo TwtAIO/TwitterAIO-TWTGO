@@ -1,12 +1,12 @@
-## TWTGO - Twitter AIO V4.2.3！ ⚫️
+## TWTGO - Twitter AIO V4.3.0！ ⚫️
 ⠀
 ![image](https://github.com/TwtAIO/TwitterAIO-TWTGO/assets/155061268/3b726599-e591-4133-a5e3-b5a7a6af2f46)
 
 
 
 ## 定价💵
-- 终身许可证 - $500
-- 每月许可证 - $250
+- 终身许可证 - $400
+- 每月许可证 - $150
 - 双周许可证 - $50 
 
 ## 特征
@@ -60,7 +60,7 @@
 - 过滤最大回复年龄
 ⠀
 ## 在这里购买
-❤️https://t.me/xev1l9
+❤️https://t.me/x3vil
 ⠀
 ## 公告频道
 https://t.me/TwitterAIO2023
